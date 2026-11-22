@@ -8,6 +8,8 @@ An AI-powered mock interview tool for job seekers. Upload your resume, paste a j
 
 `git clone https://github.com/vinay9536kumar-png/mock-interview-bot.git`
 
+live link : https://mock-interview-bot-pqek63p7tyv62bmdpi2tj5.streamlit.app/
+
 ## Features
 
 - Resume parsing from PDF using PyMuPDF
